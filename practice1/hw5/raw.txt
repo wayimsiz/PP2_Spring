@@ -1,0 +1,19 @@
+SuperMart Store
+--------------------------------
+Milk                2.50
+Bread               1.20
+Eggs                3.40
+Chocolate Bar       4,99
+Apples              5.30
+
+--------------------------------
+Subtotal:           17.39
+Tax:                1.50
+Total:              18.89
+
+Date: 05/03/2026
+Time: 14:32
+
+Payment Method: Card
+--------------------------------
+Thank you for shopping!
